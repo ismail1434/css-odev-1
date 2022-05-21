@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(213, 231, 238);
+}
+
+h1{
+    color: darkred;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: cadetblue;
+    width: 250px;
+    text-align: center;
+    
+}
+
+p{
+    font-family: monospace;
+    font-size: 15px;
+    color: black;
+}
+
+li{
+    float: left;
+    list-style: none;
+    border-style: solid;
+    border-radius: 10px;
+    color: darkred;
+    background-color: cadetblue;
+    width: 250px;
+    text-align: center;
+    margin: 5px;
+}
+
+
